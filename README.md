@@ -43,3 +43,10 @@
 - задизайнить форму, через которую пользователи смогут отправить комментарий.
 
 ---
+
+## Планы по доработке проекта
+
+- Github Pages - https://thewargas.github.io/how-to-learn/
+- Github - https://github.com/thewargas/how-to-learn
+
+---
